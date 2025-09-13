@@ -1,2 +1,2 @@
-# multiplying-an-input-without-using-times-.
-This is a assignment in java that helps me use loops.
+# Java-loops
+This is an assignment in java that helps me use loops. Multiplying an input without using times.
